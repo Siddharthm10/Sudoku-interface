@@ -1,4 +1,4 @@
-import { Flex, TextFieldInput } from "@radix-ui/themes";
+import { Flex } from "@radix-ui/themes";
 import "./App.css";
 import Navbar from "./components/Navbar";
 import Grid from "./components/Grid";

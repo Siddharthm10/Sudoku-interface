@@ -7,7 +7,7 @@ function Navbar() {
             <Text className="py-2">
                 Made with{" "}
                 <img
-                    className="inline hover:size-7"
+                    className="inline hover:scale-110"
                     src="/src/assets/love.png"
                     alt="Love icon"
                 />{" "}

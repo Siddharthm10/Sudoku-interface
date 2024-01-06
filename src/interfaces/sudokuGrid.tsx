@@ -3,3 +3,4 @@ export default interface ISudokuSampleGrids {
     medium: number[][];
     hard: number[][];
 }
+
